@@ -107,10 +107,8 @@ footer p{
 .develop{
     width:80%;
     padding-right: 80%;
+    padding-left: 10%;
 
-    
-    
-   
 }
 .develop img{
     margin-left:27%;
@@ -121,16 +119,48 @@ footer p{
     
 }
 #develop-title{
-    font-size: 40px;
+    font-size: 30px;
     font-family:'Poppins', sans-serif ;
     margin-top: 10%;
 }
 #limit-title{
-    font-size: 42px;
+    font-size: 35px;
     font-family:'Poppins', sans-serif ;
 }
 #p-text{
     font-family:'Poppins', sans-serif ;
-    margin-right: 10%;
-    width:70%;
+    
+    width:80%;
+}
+
+.global{
+ margin-left: 10%;
+
+
+    
+}
+.global img{
+    width: 60%;
+    margin-top: 20%;
+}
+#p-text2{
+    font-family:'Poppins', sans-serif ;
+    
+    width: 100%;
+    padding-right:30% ;
+   
+
+}
+#title-1{
+   
+    padding-right: 30%;
+    
+    font-size: 30px;
+    font-family:'Poppins', sans-serif  ;
+   
+}
+#title-2{
+    padding-right: 30%;
+    font-size: 35px;
+    font-family:'Poppins', sans-serif  ;
 }
