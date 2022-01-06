@@ -3,7 +3,10 @@
     margin: 0;
     padding: 0;
 }
-
+body{
+    margin-left: 2%;
+    margin-right: 2%;
+}
 .border{
     font-size: 60px;
     padding-left: 2%;
@@ -137,11 +140,13 @@ footer p{
  margin-left: 10%;
 
 
+
     
 }
 .global img{
     width: 60%;
     margin-top: 20%;
+
 }
 #p-text2{
     font-family:'Poppins', sans-serif ;
@@ -163,4 +168,35 @@ footer p{
     padding-right: 30%;
     font-size: 35px;
     font-family:'Poppins', sans-serif  ;
+}
+.corona-go{
+    width :90%;
+    padding-left:7%;
+    
+}
+.corona-go img{
+    width:50%;
+    margin-top: 10%;
+    margin-left: 25%;
+    
+}
+#corona-title{
+    width: 80%;
+    text-align: center;
+    margin-top:5% ;
+    font-family:'Poppins', sans-serif ;
+    font-size:42px ;
+}
+#corona-title2{
+    
+    padding-top: 15%;
+    font-size: 40px;
+    width: 38%;
+    font-family:'Poppins', sans-serif ;
+}
+#p-text3{
+    
+    width: 70%;
+    padding-top: 5%;
+
 }
