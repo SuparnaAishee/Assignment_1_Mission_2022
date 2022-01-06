@@ -178,7 +178,9 @@ footer p{
     width:50%;
     margin-top: 10%;
     margin-left: 25%;
-    
+    background-image: url(" mission-2022-main/images/shapes/images.png" );
+    background-size:60% ;
+  
 }
 #corona-title{
     width: 80%;
@@ -186,6 +188,7 @@ footer p{
     margin-top:5% ;
     font-family:'Poppins', sans-serif ;
     font-size:42px ;
+    
 }
 #corona-title2{
     
@@ -193,11 +196,13 @@ footer p{
     font-size: 40px;
     width: 38%;
     font-family:'Poppins', sans-serif ;
+    b
 }
 #p-text3{
     
     width: 100%;
    padding-top: 5%;
+  
 }
 
 
